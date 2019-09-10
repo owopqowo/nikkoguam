@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+
+#bo_cate h2 {position:absolute;font-size:0;line-height:0;overflow:hidden}
+
+#faq_wrap h2 {position:absolute;font-size:0;text-indent:-9999em;line-height:0;overflow:hidden}
+.faq_admin {margin:0 5px;text-align:right}
+#faq_wrap p {line-height:1.8em}
+#faq_wrap ol {margin:0;padding:0;list-style:none}
+
+#faq_con .con_closer {display:none;margin:10px 0 0;text-align:right}
+#faq_con .closer_btn {margin:0;padding:10px;border:0;background:#666;color:#fff}
+.faq_tolist {padding:0 10px;text-align:right}
+.faq_img {text-align:center}
+
+#faq_sch {text-align:center}
